@@ -1,1 +1,0 @@
-# Chatgpt-Integration-in-SIEM-Tool-Microsoft-Sentinal-
