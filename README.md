@@ -46,6 +46,8 @@ Before setting up the project, ensure you have the following:
 2. **Access the Automation Section**:  
    - In the Microsoft Sentinel workspace, click on **Automation** from the left-hand menu.
    - Click **Create** to initiate a new playbook.
+![Alt text](screenshots/automation.png)
+![Alt text](screenshots/creating_automation.png)
 
 3. **Playbook Details**:  
    - Provide the required information, and name the playbook **ChatGPT**.
